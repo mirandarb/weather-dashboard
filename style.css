@@ -1,0 +1,16 @@
+.heading {
+    padding: 20px;
+    background-color: rgb(73, 110, 232);
+    color: white;
+    text-align: center;
+}
+
+#searchCity {
+    background-color: rgb(104, 136, 213);
+    margin: 0px;
+    padding: 20px;
+}
+
+.button {
+    background-color: white;
+}
